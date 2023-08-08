@@ -28,5 +28,9 @@ This project contains a Python application designed to fetch and display the cur
 2. Navigate to the project folder in your terminal or command prompt.
 3. Install the required dependencies by running the following command:
 
-   ```sh
-   pip install requests
+## ScreenShots 
+<img width="1161" alt="Ekran Resmi 2023-08-08 17 41 19" src="https://github.com/unsatisfieddeveloper/currencyApi/assets/78718815/1cb65707-71db-4d0e-87da-42c4bc6e07d9">
+<img width="1170" alt="Ekran Resmi 2023-08-08 17 41 28" src="https://github.com/unsatisfieddeveloper/currencyApi/assets/78718815/82011434-8fe6-4244-b1a2-fb213b5fe026">
+
+
+<img width="1155" alt="Ekran Resmi 2023-08-08 17 41 31" src="https://github.com/unsatisfieddeveloper/currencyApi/assets/78718815/ad03f4a8-3a25-4507-9b61-20c5aa2c22fd">
